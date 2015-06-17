@@ -1,0 +1,17 @@
+{
+  "name": "idk",
+  "version": "1.0.0",
+  "description": "App to programmatically detect if someone is willing to commit suicide and attempt preventative measures",
+  "main": "app.js",
+  "dependencies": {
+    "indico.io": "^0.3.1",
+    "mongodb": "^2.0.33",
+    "twit": "^1.1.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "David Awad",
+  "license": "MIT"
+}
