@@ -17,61 +17,7 @@ Please contribute. I can't actually do node callbacks for my life.
 This is sample tweet, it should help as far as understanding the JSON responses from twitter.
 
 ```JSON
-{ created_at: 'Sat Jun 13 04:58:24 +0000 2015',
-  id: 609585589139189800,
-  id_str: '609585589139189760',
-  text: 'RT @dcampbelll_: Just wanna wake up to a cute message in the morning, that is all',
-  source: '<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>',
-  truncated: false,
-  in_reply_to_status_id: null,
-  in_reply_to_status_id_str: null,
-  in_reply_to_user_id: null,
-  in_reply_to_user_id_str: null,
-  in_reply_to_screen_name: null,
-  user:
-   { id: 2402346402,
-     id_str: '2402346402',
-     name: '❁ꉓꃅꌩꈤꍏ❁',
-     screen_name: '_chynaaadoll__',
-     location: '',
-     url: null,
-     description: '❤️06•04•15❤️',
-     protected: false,
-     verified: false,
-     followers_count: 287,
-     friends_count: 269,
-     listed_count: 4,
-     favourites_count: 7946,
-     statuses_count: 9631,
-     created_at: 'Sat Mar 22 00:28:04 +0000 2014',
-     utc_offset: -10800,
-     time_zone: 'Atlantic Time (Canada)',
-     geo_enabled: true,
-     lang: 'en',
-     contributors_enabled: false,
-     is_translator: false,
-     profile_background_color: 'C0DEED',
-     profile_background_image_url: 'http://abs.twimg.com/images/themes/theme1/bg.png',
-     profile_background_image_url_https: 'https://abs.twimg.com/images/themes/theme1/bg.png',
-     profile_background_tile: false,
-     profile_link_color: 'FAEB46',
-     profile_sidebar_border_color: 'C0DEED',
-     profile_sidebar_fill_color: 'DDEEF6',
-     profile_text_color: '333333',
-     profile_use_background_image: true,
-     profile_image_url: 'http://pbs.twimg.com/profile_images/607400629997174784/R3zGIRAO_normal.jpg',
-     profile_image_url_https: 'https://pbs.twimg.com/profile_images/607400629997174784/R3zGIRAO_normal.jpg',
-     profile_banner_url: 'https://pbs.twimg.com/profile_banners/2402346402/1434130766',
-     default_profile: false,
-     default_profile_image: false,
-     following: null,
-     follow_request_sent: null,
-     notifications: null },
-  geo: null,
-  coordinates: null,
-  place: null,
-  contributors: null,
-  retweeted_status:
+tweet = {
    { created_at: 'Sat Jun 13 04:44:55 +0000 2015',
      id: 609582194881896400,
      id_str: '609582194881896448',
@@ -154,6 +100,7 @@ This is sample tweet, it should help as far as understanding the JSON responses 
   lang: 'en',
   timestamp_ms: '1434171504660' }
 }
+
 ```
 
 ## Resourses
