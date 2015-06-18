@@ -18,7 +18,7 @@ This is sample tweet, it should help as far as understanding the JSON responses 
 
 ```JSON
 tweet = {
-   { created_at: 'Sat Jun 13 04:44:55 +0000 2015',
+     created_at: 'Sat Jun 13 04:44:55 +0000 2015',
      id: 609582194881896400,
      id_str: '609582194881896448',
      text: 'Just wanna wake up to a cute message in the morning, that is all',
