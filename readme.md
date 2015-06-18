@@ -153,6 +153,7 @@ This is sample tweet, it should help as far as understanding the JSON responses 
   filter_level: 'low',
   lang: 'en',
   timestamp_ms: '1434171504660' }
+}
 ```
 
 ## Resourses
