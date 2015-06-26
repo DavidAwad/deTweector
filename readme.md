@@ -4,10 +4,12 @@
 
 
 This (terribly named) project was an inspired stem of the insightweets project I had built previously, with
-one of it's potential applications.
+one of it's potential applications. 
+
 
 This project looks through tweets for any given query, and looks at the average
-**sentiment** of any search result's twitter account over a period of time.
+**sentiment** of any search result's twitter account over a period of time. It's also a good code example for using callbacks, and storing tweets into MongoDB for convenient un-rate-limited searching and processing later on. 
+
 
 After looking at which we can determine if a particular user happens to be
 suffering from depression.
