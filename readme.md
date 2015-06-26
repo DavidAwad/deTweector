@@ -1,4 +1,7 @@
-##  De(p)Tweector
+##  De(p)Tweector 
+
+[![Inline docs](http://inch-ci.org/github/phoenixframework/phoenix.svg)](http://inch-ci.org/github/davidawad/deTweector)
+
 
 This (terribly named) project was an inspired stem of the insightweets project I had built previously, with
 one of it's potential applications.
